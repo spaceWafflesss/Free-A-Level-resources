@@ -15,4 +15,7 @@ To view all past papers and mark schemes you can download them from the official
 
 [lingq](https://www.lingq.com/en/grammar-resource/french/) has a free guide to grammer and conjugation in various languages, as well as french.
 
+[Readlang](https://www.readlang.com) as well as being great for languages learning in general, you can import your own books and convert individual letters. You can do the same with foreign websites with their extension. It's free and doesn't require a sign up.
 
+***My personnel advice***
+I did not find the study book very useful for learning how to learn the exam, though this will depend per personne. For those who don't  
