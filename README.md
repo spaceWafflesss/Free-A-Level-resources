@@ -9,3 +9,5 @@ This is a public repository I made after passing my A Levels, it contaisn free i
 [frenchverbpractice](https://www.frenchverbpractice.com) is good for practicing conjugation and all tenses in fast reptitive way.
 
 [lingq](https://www.lingq.com/en/grammar-resource/french/) has a free guide to grammer and conjugation in various languages, as well as french.
+
+[Edexcel A Level French study book](https://z-lib.gd/book/9rExRVavPl/edexcel-a-level-french-includes-as.html), as of June 2026 this is the current official study book for French.
