@@ -9,20 +9,22 @@ To view all past papers and mark schemes you can download them from the official
 
 [Edexcel A Level French study book](https://z-lib.gd/book/9rExRVavPl/edexcel-a-level-french-includes-as.html), as of June 2026 this is the current official study book for French.
 
-[frenchtop10](https://www.frenchtop10.com) is a great websites for finding information for the french oral themes as each is listed with links, as well as having a good analise of each theme in the book No et moi.
+[Frenchtop10](https://www.frenchtop10.com) is a great websites for finding information for the french oral themes as each is listed with links, as well as having a good analise of each theme in the book No et moi.
 
-[frenchverbpractice](https://www.frenchverbpractice.com) is good for practicing conjugation and all tenses in fast reptitive way.
+[Frenchverbpractice](https://www.frenchverbpractice.com) is good for practicing conjugation and all tenses in fast reptitive way.
 
-[lingq](https://www.lingq.com/en/grammar-resource/french/) has a free guide to grammer and conjugation in various languages, as well as french.
+[Lingq](https://www.lingq.com/en/grammar-resource/french/) has a free guide to grammer and conjugation in various languages, as well as french.
 
 [Readlang](https://www.readlang.com) as well as being great for languages learning in general, you can import your own books and convert individual letters. You can do the same with foreign websites with their extension. It's free and doesn't require a sign up.
 
 ### Exam explination
 The oral exam lasts max 23 minutes in total. Task (part) one lasts 7 minutes max. You are given a choice between two themes, once you choose one you are giving two questions that you can respond to. You get 5 minutes to prepare your answer before your examiner will ask you questions about the theme, and you need to give arguements for/agaist it.
 
-Task two lasts max 11 minutes. For the first two minutes you give a speech presenting your subject, why you chose it, and some facts you want to talk about. You can see my example text for my subject here: [IRP](Edexcel%20A%20Level%20French%209FR0%20/IRP%20theme%20example.txt) I practice by feeding the text I wrote into chatgpt, which asked me questions about it.
+Task two lasts max 11 minutes. For the first two minutes you give a speech presenting your subject, why you chose it, and some facts you want to talk about. You can see my example text for my subject here: [IRP](Edexcel%20A%20Level%20French%209FR0%20/IRP%20theme%20example.txt). In your presentation you need to mention at least two sources for where you got this information. Before you pass the exam you need to send a form to your school/center where you list your sources as URLs or name if it is a book. You need to have at least two, as well as listing points of your presentation in english. I practiced by feeding the [text I wrote](Edexcel%20A%20Level%20French%209FR0%20/IRP%20theme%20example.txt) into chatgpt, which asked me questions about it.
 
-The exam is suppose to be like a conversation/interview, where you do most of the talking, and then ask something like, "What do you think?" there is no english in the oral.
+The exam is suppose to be like a conversation/interview, where you do most of the talking, and then ask something like, "What do you think?". You cannot speak english once the exam starts.
+
+In paper 1 you listen to an audio and respond to questions about it. At the end you translate
 
 ### My personnel advice
 I did not find the study book very useful for learning the exam, though this will depend per person. For those who don't have a large vocaburlary, readlang can help you gain a lot fairly quickly, and then practice those words as flashcards. Lingq also does this with more resources, but requires a subscription.
