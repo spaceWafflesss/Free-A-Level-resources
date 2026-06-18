@@ -20,7 +20,7 @@ To view all past papers and mark schemes you can download them from the official
 ### Exam explination
 The oral exam lasts max 23 minutes in total. Task (part) one lasts 7 minutes max. You are given a choice between two themes, once you choose one you are giving two questions that you can respond to. You get 5 minutes to prepare your answer before your examiner will ask you questions about the theme, and you need to give arguements for/agaist it.
 
-Task two lasts max 11 minutes. For the first two minutes you give a speech presenting your subject, why you chose it, and some facts you want to talk about. You can see my example text for my subject here: [IRP](Edexcel A Level French 9FR0/IRP theme example.txt)I practice by feeding the text I wrote into chatgpt, which asked me questions about it.
+Task two lasts max 11 minutes. For the first two minutes you give a speech presenting your subject, why you chose it, and some facts you want to talk about. You can see my example text for my subject here: [IRP](Edexcel A Level French 9FR0 /IRP theme example.txt)I practice by feeding the text I wrote into chatgpt, which asked me questions about it.
 
 The exam is suppose to be like a conversation/interview, where you do most of the talking, and then ask something like, "What do you think?" there is no english in the oral.
 
