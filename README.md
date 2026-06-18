@@ -8,4 +8,4 @@ This is a public repository I made after passing my A Levels, it contaisn free i
 
 [frenchverbpractice](https://www.frenchverbpractice.com) is good for practicing conjugation and all tenses in fast reptitive way.
 
-[lingq](https://www.lingq.com/fr/grammar-resource/french/) has a free guide to grammer and conjugation in various languages, as well as french.
+[lingq](https://www.lingq.com/en/grammar-resource/french/) has a free guide to grammer and conjugation in various languages, as well as french.
