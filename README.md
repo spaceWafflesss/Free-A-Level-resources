@@ -18,7 +18,7 @@ To view all past papers and mark schemes you can download them from the official
 
 [Readlang](https://www.readlang.com) as well as being great for languages learning in general, you can import your own books and convert individual letters. You can do the same with foreign websites with their extension. It's free and doesn't require a sign up.
 
-### Exam explination
+### Exam explanation
 The oral exam lasts max 23 minutes in total. Task (part) one lasts 7 minutes max. You are given a choice between two themes, once you choose one you are giving two questions to chose from that you respond to. You get 5 minutes to prepare your answer before your examiner will ask you questions about the theme, and you need to give arguements for/against it.
 
 Task two lasts max 11 minutes. For the first two minutes you give a speech presenting your subject, why you chose it, and some facts you want to talk about. You can see my example text for my subject here: [IRP](Edexcel%20A%20Level%20French%209FR0%20/IRP%20theme%20example.txt). In your presentation you need to mention at least two sources for where you got this information. Before you pass the exam you need to send a form to your school/center where you list your sources as URLs or name if it is a book. You need to have at least two, as well as listing points of your presentation in english. I practiced by feeding the [text I wrote](Edexcel%20A%20Level%20French%209FR0%20/IRP%20theme%20example.txt) into chatgpt, which asked me questions about it.
@@ -27,7 +27,7 @@ The exam is suppose to be like a conversation/interview, where you do most of th
 
 In paper 1 you listen to an audio and respond to questions about it. At the end you translate a text from french to english.
 
-In paper 2 you first translate from english to french, and then repond to two question on either two books you studied, or one book and one movie. You chose the book and movie from a list that edexcel creates and lists in the specification. As of June 2026 it should be viewable [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_French.pdf#page=53). **IMPORTANT** your subject for task 2 of the oral exam cannot be based on any of the books or movies you studied.
+In paper 2 you first translate from english to french, and then repond to two question on either two books you studied, or one book and one movie. You must write 300 to 350 words. You can write more or less, but this is what you should aim for. You chose the book and movie (or the second book) from a list that edexcel creates and lists in the specification. As of June 2026 it should be viewable [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_French.pdf#page=53). **IMPORTANT** your subject for task 2 of the oral exam cannot be based on any of the books or movie you studied.
 
 ### My personnel advice
 I did not find the study book very useful for learning the exam, though this will depend per person. For those who don't have a large vocaburlery, Readlang can help you gain a lot fairly quickly, and then practice those words as flashcards. Lingq also does this with more resources, but requires a subscription.
@@ -50,4 +50,14 @@ Que horas ela volta? has quiet a few resources online, mostly on youtube. I beli
 
 The book Antes do Baile verde has a full reading and analisis for each story on youtube which I definetly recommend. If you already read the book just skip to the end. The youtube comments are also very interresting to analise more. Playlist is here: [Antes do Baile verde playlist](https://youtube.com/playlist?list=PLV5mb7wzGSTAa4Whv1RFziwSHFetnYnAS&si=lAAvjjO70CQ8dOzZ)
 
+[Verbugata](https://verbugata.com) is good for practicing conjugation and all tenses in fast reptitive way.
 
+[Lingq](https://www.lingq.com/en/grammar-resource/portuguese/) has a free guide to grammer and conjugation in various languages, as well as portuguese.
+
+### Exam explanation
+
+Paper 1 involves first translating from portuguse to english. The second is answering questions related to text. The final Part involves writing 200-250 words to answer a question based on a theme you have previously chosen to study. The list of themes to choose from can be seen here: [paper 1 themes](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Portuguese/2018/specification-and-sample-assessments/A-level-Portugese-Specification1.pdf#page=10). Here is an example article online about the [CPLP theme](https://gerador.eu/a-lusofonia-como-espaco-de-reconstrucao-da-memoria-coletiva/). 
+
+For paper 2 you need to first translate a text from english to portuguse. Then repond to two different questions on either two books you studied, or one book and one movie. You must write 300 to 350 words. You can write more or less, but this is what you should aim for. You chose the book and movie (or the second book) from a list that edexcel creates and lists in the specification. As of June 2026 it should be viewable [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Portuguese/2018/specification-and-sample-assessments/A-level-Portugese-Specification1.pdf#page=47).
+
+In Paper 3 you listen you an audio and respond to questions based on the audio. You  The last part involves listing down points you chose from the last audio. And then doing the same with a text. Then you write 200-250 words comparing those points and what you agree/disagree with. You cannot prepare for this other than by practicing writing and reading, as the chosing theme cannot be predicted.
