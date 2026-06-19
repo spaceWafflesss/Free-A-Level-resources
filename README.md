@@ -2,8 +2,7 @@
 
 This is a public repository I made after passing my A Levels, it contains free information and resources to help you to study. I studied French, Portugeuse and computor science, so resources will be related to these. 
 
-## Edexcel A Level French 9FR0
-
+## Edexcel A Level French 9FR0 Resources
 To view all past papers and mark schemes you can download them from the official website here: [past papers](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.coursematerials.html#%2FfilterQuery=category:Pearson-UK:Category%2FExam-materials)
 **IMPORTANT**: unlike GCSE, A level languages use a scaling system, which can be viewed for all languages here: [scaling](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/forms-and-administration/a-level-languages-scaling-guidance.pdf).
 
@@ -28,12 +27,27 @@ The exam is suppose to be like a conversation/interview, where you do most of th
 
 In paper 1 you listen to an audio and respond to questions about it. At the end you translate a text from french to english.
 
-In paper 2 you first translate from english to french, and then repond to two question on either two books you studied, or one book and one movie. You chose the book and movie from a list that edexcel creates and lists in the specification. As of June 2026 it should be viewable [here](
+In paper 2 you first translate from english to french, and then repond to two question on either two books you studied, or one book and one movie. You chose the book and movie from a list that edexcel creates and lists in the specification. As of June 2026 it should be viewable [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_French.pdf#page=53). **IMPORTANT** your subject for task 2 of the oral exam cannot be based on any of the books or movies you studied.
 
 ### My personnel advice
-I did not find the study book very useful for learning the exam, though this will depend per person. For those who don't have a large vocaburlary, Readlang can help you gain a lot fairly quickly, and then practice those words as flashcards. Lingq also does this with more resources, but requires a subscription.
+I did not find the study book very useful for learning the exam, though this will depend per person. For those who don't have a large vocaburlery, Readlang can help you gain a lot fairly quickly, and then practice those words as flashcards. Lingq also does this with more resources, but requires a subscription.
 
-For practicing for the oral (speaking) exam, frenchtop10 has every subject that you need to know for part one. Part two requires that you study a theme that you chose. I did this by writing a short text about my theme, viewable in the French file. You can chose any subject, as long as it is related to a french speaking country. Some ideas are given [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Teaching%20and%20learning%20materials/Ideas_for_independent_research_projects_French.pdf). To learn more about the themes and your own theme, it can be useful to get someone or something to ask you questions about it, like a conversation, as this forces you to do more research when you don't know.
+For paper 1, the first two sections (listening and reading) can only be practiced over the long term, as they both depend on exposure to the language. Watching, listening or reading francophone media can help with this. Programs like Arte, C'est pas sorcière (a classic), or newspapers like Le Monde, Slate.fr, or BBC afrique. Arte has podcasts like 28 minutes. 
 
-f
+For paper 2, most of the marks are in the two texts you need to write in response to a question you chose to respond to about your chosen book and movie, or just two books. One way to practice this is to practice on the questions from past papers, and then look at the example reponses in the mark scheme. These show you what they exept you to talk about.
+
+The translations in both paper 1 and 2, while a little different, can be studied in the same way. Just find texts in both languages to translate from. Either from past papers or other. Then note down what you got wrong, and repeat.
+
+For practicing for the oral (paper 3, speaking) exam, frenchtop10 has every subject that you need to know for part one. Part two requires that you study a theme that you chose. I did this by writing a short text about my theme, viewable in the French file. You can chose any subject, as long as it is related to a french speaking country. Some ideas are given [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Teaching%20and%20learning%20materials/Ideas_for_independent_research_projects_French.pdf). To learn more about the themes and your own theme, it can be useful to get someone or something to ask you questions about it, like a conversation, as this forces you to do more research when you don't know. If you have more time, using apps like Tandem or italki to practice speaking with natives can help a lot. They both have a free version.
+
+## Edexcel A Level Portuguese (9PG0)
+Portuguse is a bit tricky, as it's not popular enough to even have an official study book.
+
+To view all past papers and mark schemes you can download them from the official website here: [past papers](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/portuguese-2018.coursematerials.html#filterQuery=Pearson-UK:Category%2FExam-materials)
+**IMPORTANT**: unlike GCSE, A level languages use a scaling system, which can be viewed for all languages here: [scaling](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/forms-and-administration/a-level-languages-scaling-guidance.pdf).
+
+Que horas ela volta? has quiet a few resources online, mostly on youtube. I believe this is because it is also studied in the brazilian education system. The best ones I found is viewable [here](https://m.youtube.com/watch?v=t8s-rWIGUxw&pp=ygUbcXVlIGhvcmFzIGVsYSB2b2x0YSBhbmFsaXNl&ra=m) and [here](https://m.youtube.com/watch?v=tMcNVwlIJ_c&ra=m)
+
+The book Antes do Baile verde has a full reading and analisis for each story on youtube which I definetly recommend. If you already read the book just skip to the end. The youtube comments are also very interresting to analise more. Playlist is here: [Antes do Baile verde playlist](https://youtube.com/playlist?list=PLV5mb7wzGSTAa4Whv1RFziwSHFetnYnAS&si=lAAvjjO70CQ8dOzZ)
+
 
