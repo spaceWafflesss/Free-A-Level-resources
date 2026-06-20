@@ -64,6 +64,16 @@ The book Antes do Baile verde has a full reading and analisis for each story on 
 
 [Lingq](https://www.lingq.com/en/grammar-resource/portuguese/) has a free guide to grammer and conjugation in various languages, as well as portuguese.
 
+Books
+1. [Antes do Baile Verde](https://z-lib.gd/book/RAZbyoNpAy/antes-do-baile-verde.html)
+2. [L'étr
+3. Third
+
+Movies
+1. First
+2. Second
+3. Third
+
 ### Exam explanation
 
 Paper 1 involves first translating from portuguse to english. The second is answering questions related to text. The final Part involves writing 300-350 words to answer a question based on a theme you have previously chosen to study. The list of themes to choose from can be seen here: [paper 1 themes](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Portuguese/2018/specification-and-sample-assessments/A-level-Portugese-Specification1.pdf#page=10). Here is an example article online about the [CPLP theme](https://gerador.eu/a-lusofonia-como-espaco-de-reconstrucao-da-memoria-coletiva/). 
@@ -87,5 +97,8 @@ In paper 1 and 2 there is a translation task worth 20 marks. The first is EN to 
 ## AQA A Level Computer Science (7517)
 
 Computer science goes over a lot of things, so there are resources you could use from anywhere, not only the AQA specific stuff.
+
+[AQA A Level Computer Science study book](https://z-lib.gd/book/6Xabo8M2AO/aqa-a-level-computer-science.html), as of June 2026 this is the current official study book for computer science.
+
 
 [Craig n Dave](https://m.youtube.com/channel/UC0HzEBLlJxlrwBAHJ5S9JQg?ra=m) have a youtube channel and [website](https://craigndave.org) that goes over everything in the AQA spec. You can just search the subject and then add there name and they should have a video. Make sure it's AQA as they also do OCR.
