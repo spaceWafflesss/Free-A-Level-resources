@@ -19,8 +19,8 @@ To view all past papers and mark schemes you can download them from the official
 [Readlang](https://www.readlang.com) as well as being great for languages learning in general, you can import your own books and convert individual letters. You can do the same with foreign websites with their extension. It's free and doesn't require a sign up.
 
 Books
-1. First
-2. Second
+1. [No et moi](https://z-lib.gd/book/orQoKBNyAG/no-et-moi-roman.html)
+2. [L'étranger](https://z-lib.gd/book/Vrwpo4mkX1/létranger.html)
 3. Third
 
 Movies
