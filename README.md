@@ -66,13 +66,13 @@ The book Antes do Baile verde has a full reading and analisis for each story on 
 
 Books
 1. [Antes do Baile Verde](https://z-lib.gd/book/RAZbyoNpAy/antes-do-baile-verde.html)
-2. [L'étr
+2. [Pensageiro frequente](https://z-library.sk/book/3RkpwAwDjX/pensageiro-frequente.html) 
 3. Third
 
 Movies
-1. First
-2. Second
-3. Third
+1. [Que horas ela volta?](https://www.cineby.at/movie/310569?play=true)
+2. j
+4. Third
 
 ### Exam explanation
 
