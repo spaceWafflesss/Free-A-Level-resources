@@ -73,3 +73,9 @@ Paper 2 may be more time consuming as it's a lot of writing. It's best to practi
 For the movies, I found Que horas ela volta? to be the easiest to study, having clear themes like modern slavery and class war. Though A Canção de Lisboa isn't too bad either. The other two movies are less easy, mostly because it is nearly impossible to even find the actual movie online.
 
 In paper 1 and 2 there is a translation task worth 20 marks. The first is EN to PT and the second is PT to EN. I found the best way to study this was to practice translating the past paper texts or any other texts and then noting down the mistakes, and then repeating. 
+
+## AQA A Level Computer Science (7517)
+
+Computer science goes over a lot of things, so there are resources you could use from anywhere, not only the AQA specific stuff.
+
+[Craig n Dave](https://m.youtube.com/channel/UC0HzEBLlJxlrwBAHJ5S9JQg?ra=m) have a youtube channel and [website](https://craigndave.org) that goes over everything in the AQA spec. You can just search the subject and then add there name and they should have a video. Make sure it's AQA as they also do OCR.
