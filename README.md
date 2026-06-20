@@ -18,6 +18,16 @@ To view all past papers and mark schemes you can download them from the official
 
 [Readlang](https://www.readlang.com) as well as being great for languages learning in general, you can import your own books and convert individual letters. You can do the same with foreign websites with their extension. It's free and doesn't require a sign up.
 
+Books
+1. First
+2. Second
+3. Third
+
+Movies
+1. First
+2. Second
+3. Third
+4. 
 ### Exam explanation
 The oral exam lasts max 23 minutes in total. Task (part) one lasts 7 minutes max. You are given a choice between two themes, once you choose one you are giving two questions to chose from that you respond to. You get 5 minutes to prepare your answer before your examiner will ask you questions about the theme, and you need to give arguements for/against it.
 
