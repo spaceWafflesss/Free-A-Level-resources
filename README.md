@@ -32,7 +32,7 @@ In paper 2 you first translate from english to french, and then repond to two qu
 ### My personnel advice
 I did not find the study book very useful for learning the exam, though this will depend per person. For those who don't have a large vocaburlery, Readlang can help you gain a lot fairly quickly, and then practice those words as flashcards. Lingq also does this with more resources, but requires a subscription.
 
-For paper 1, the first two sections (listening and reading) can only be practiced over the long term, as they both depend on exposure to the language. Watching, listening or reading francophone media can help with this. Programs like Arte, C'est pas sorcière (a classic), or newspapers like Le Monde, Slate.fr, or BBC afrique. Arte has podcasts like 28 minutes. 
+For paper 1, the first two sections (listening and reading) can only be practiced over the long term, as they both depend on exposure to the language. Watching, listening or reading francophone media can help with this. Programs like Arte, C'est pas sorcière (a classic), Easy French, (youtube channel) or newspapers like Le Monde, Slate.fr, or BBC afrique. Arte has podcasts like 28 minutes. 
 
 For paper 2, most of the marks are in the two texts you need to write in response to a question you chose to respond to about your chosen book and movie, or just two books. One way to practice this is to practice on the questions from past papers, and then look at the example reponses in the mark scheme. These show you what they exept you to talk about.
 
@@ -64,4 +64,12 @@ In Paper 3 you first listen to an audio and respond to questions based on the au
 
 ### My personnel advice
 
-For general understanding in listening, reading and writing, which is important for all papers, resources like Readlang (free) or Lingq (subscription) are great for gainging vocabulary, as all the words you click on can later be practiced as flashcards. Programs like BBC Brasil (online newspaper and youtube channel)
+For general understanding in listening, reading and writing, which is important for all papers, resources like Readlang (free) or Lingq (subscription) are great for gainging vocabulary, as all the words you click on can later be practiced as flashcards. Programs like BBC Brasil (online newspaper and youtube channel) or Folha de São Paulo. There is also youtube channels like Easy Portuguese (PT-BR) or Porta dos fundos (PT-BR, many older episodes has english and PT subs) or Wuant (PT-PT, gamer). Renascença has podcasts like Extremamente Desagradável (PT-PT).
+
+For paper 1 and 3, you can only really practice over the long term, as it invovles understanding text and audio. The last part of paper 1 (the research theme) needs to be studied over time so you understand the subject well enough.
+
+Paper 2 may be more time consuming as it's a lot of writing. It's best to practice using the previous past papers and then looking at the example answer points they have. Notably, as of June 2026, two of the books you can choose from (Antes do Baile Verde and Pensageiro frequente) are a collection of short stories. In the exam it always asks a questions regarding a theme, and then requires you to give examples using at least **THREE** short stories. I hadn't found any sign that they could ask for a theme that only exists in certain stories. This implies that you could choose three stories in advance and only study those in depth, finding similarities in between them only. I did this without issue, though that **DOES NOT** mean it's a good idea to do this.
+
+For the movies, I found Que horas ela volta? to be the easiest to study, having clear themes like modern slavery and class war. Though A Canção de Lisboa isn't too bad either. The other two movies are less easy, mostly because it is nearly impossible to even find the actual movie online.
+
+In paper 1 and 2 there is a translation task worth 20 marks. The first is EN to PT and the second is PT to EN. I found the best way to study this was to practice translating the past paper texts or any other texts and then noting down the mistakes, and then repeating. 
