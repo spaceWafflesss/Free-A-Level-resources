@@ -114,7 +114,10 @@ Computer science goes over a lot of things, so there are resources you could use
 
 [Electronics tutorials](https://www.electronics-tutorials.ws/boolean/bool_6.html) has boolean and gates informations.
 
+### Exam explanation
+There are three different parts of the exam.
 
+Paper 1 involves normal questions like on a paper only. Some of the subjects in it could be Polish notation or list types and queues. The diffence is all answers need to be entered into a digital document known as the EAD or electronic answers document. This will most likley be 
 
 
 
