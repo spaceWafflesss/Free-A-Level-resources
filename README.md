@@ -67,7 +67,8 @@ The book Antes do Baile verde has a full reading and analisis for each story on 
 Books
 1. [Antes do Baile Verde](https://z-lib.gd/book/RAZbyoNpAy/antes-do-baile-verde.html)
 2. [Pensageiro frequente](https://z-library.sk/book/3RkpwAwDjX/pensageiro-frequente.html) 
-3. Third
+3. [Capitães da areia](https://z-library.sk/book/DjEd2owzRo/capitães-da-areia.html)
+4. [Viagem do Elefante](https://z-library.sk/book/QO5dNVwYvr/viagem-do-elefante.html)
 
 Movies
 1. [Que horas ela volta?](https://www.cineby.at/movie/310569?play=true)
