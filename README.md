@@ -1,6 +1,6 @@
 # Free-A-Level-resources
 
-This is a public repository I made after passing my A Levels, it contains free information and resources to help you to study. I studied French, Portugeuse and computor science, so resources will be related to these. 
+This is a public repository I made after passing my A Levels, it contains free information and resources to help you study. I studied French, Portugeuse and computor science, so resources will be related to these. 
 
 ## Edexcel A Level French 9FR0 Resources
 To view all past papers and mark schemes you can download them from the official website here: [past papers](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.coursematerials.html#%2FfilterQuery=category:Pearson-UK:Category%2FExam-materials)
@@ -39,7 +39,7 @@ In paper 1 you listen to an audio and respond to questions about it. At the end 
 
 In paper 2 you first translate from english to french, and then repond to two question on either two books you studied, or one book and one movie. You must write 300 to 350 words. You can write more or less, but this is what you should aim for. You chose the book and movie (or the second book) from a list that edexcel creates and lists in the specification. As of June 2026 it should be viewable [here](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Specification%20and%20sample%20assessments/Specification_GCE_A_level_L3_in_French.pdf#page=53). **IMPORTANT** your subject for task 2 of the oral exam cannot be based on any of the books or movie you studied.
 
-### My personnel advice
+### My personal advice
 I did not find the study book very useful for learning the exam, though this will depend per person. For those who don't have a large vocaburlery, Readlang can help you gain a lot fairly quickly, and then practice those words as flashcards. Lingq also does this with more resources, but requires a subscription.
 
 For paper 1, the first two sections (listening and reading) can only be practiced over the long term, as they both depend on exposure to the language. Watching, listening or reading francophone media can help with this. Programs like Arte, C'est pas sorcière (a classic), Easy French, (youtube channel) or newspapers like Le Monde, Slate.fr, or BBC afrique. Arte has podcasts like 28 minutes. 
@@ -82,7 +82,7 @@ For paper 2 you need to first translate a text from english to portuguse. Then r
 
 In Paper 3 you first listen to an audio and respond to questions based on the audio. The last part involves listing down points you chose from the last audio. And then doing the same with a text. Then you write 200-250 words comparing those points and what you agree/disagree with. You cannot prepare for this other than by practicing writing and reading, as the chosing theme cannot be predicted.
 
-### My personnel advice
+### My personal advice
 
 For general understanding in listening, reading and writing, which is important for all papers, resources like Readlang (free) or Lingq (subscription) are great for gainging vocabulary, as all the words you click on can later be practiced as flashcards. Programs like BBC Brasil (online newspaper and youtube channel) or Folha de São Paulo. There is also youtube channels like Easy Portuguese (PT-BR) or Porta dos fundos (PT-BR, many older episodes has english and PT subs) or Wuant (PT-PT, gamer). Renascença has podcasts like Extremamente Desagradável (PT-PT).
 
@@ -121,9 +121,9 @@ Paper 1 involves normal questions like on a paper only. Some of the subjects in 
 
 Paper 2 is a classic exam, with only a calculator needed. It goes over mosts subjects in the specification. There are certain formulas you are expected to know, other than those in the CS study book previously linked. Such as percentage change. Notable parts are the binary calculations, SQL creation, and ethical reasoning.
 
-In CS there is a programming project that must be sent to the exam center/school. The deadline is usually around 2 of May, but varies per school. You have freedom to create whatever program you want, in any programming language, though Python, Java, Visual basic, or c++ is **HIGHLY*** recommended. There is no specific goal to have such as number of lines to write or characters. 
+In CS there is a programming project that must be sent to the exam center/school. The deadline is usually around 2 of May, but varies per school. You have freedom to create whatever program you want, in any programming language, though Python, Java, Visual basic, or c++ is **HIGHLY** recommended. There is no specific goal to have such as number of lines to write or characters. 
 
-### My personnel advice
+### My personal advice
 
 The beginning of paper 1 is basically like a normal exam (eg on paper) exept you answer on a document. The first programming question is always involves writing a program from scratch, if you are bad at this skip it, as you may loose time on other high mark questions. The best way to practice it is mostly by completing questions from past papers. For the questions involving the skeleton program, you can practice using the previous skeleton programs, of which there are about two. Or if you already have your skeleton program, I recommend only learning that. Practice by actually using the program and testing its limits. Try to understand how all areas of the code are related by running dry runs. (Don't actually do a dry run, just add print statements to debug, or use the debugger). As previously mentioned, Wiki books CS is great for having example questions you could get, on the current skeleton program.
 
@@ -131,4 +131,4 @@ Paper 2 can be studied like any paper. Many areas may have to be studied repeate
 
 The coding project can be started whenever. so it's best to give yourself a lot of time to do it, depending on your programming experience. (Don't do like me and start in Januray.) Your starting date will depend on the scale of your project. While you can make anything, most people make videogames. A key part of the project is that you **manipulate data** , for example like the logical AND adder that takes two inputs and gives an input. you cannot just recieve data and give and output, you need to do some sort of calculations on it. For example a program that would not work is a calender where you input a number and it returns what month and day of the month that will be on. That calculation is not complex enough. The projects you can do are split into two types, 1: solutions to problems. For example creating the instructions to make a custom friendship bracelet (Games are included in this), and 2: Research projects. Barely anyone does the latter, but basically its when you create a program to discover a result. Like a program that simulates how water runs on a 2D shape that is generated randomly. Using this you can find what is the most hydrodynamic shape. Most of the marks for your program come from how well your code is written, and what smart techniques you use, eg: binary search or reacursion. (though it is rare for reacursion to be used in most projects)
 
-Along side the 
+Along side of the programming project you are also supposed to create a document 
