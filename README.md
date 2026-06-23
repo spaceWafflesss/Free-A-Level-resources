@@ -69,6 +69,7 @@ Books
 2. [Pensageiro frequente](https://z-library.sk/book/3RkpwAwDjX/pensageiro-frequente.html) 
 3. [Capitães da areia](https://z-library.sk/book/DjEd2owzRo/capitães-da-areia.html)
 4. [Viagem do Elefante](https://z-library.sk/book/QO5dNVwYvr/viagem-do-elefante.html)
+5. [A cidade e as serras](https://z-library.sk/book/7vblA2ZYRY/a-cidade-e-as-serras.html)
 
 Movies
 1. [Que horas ela volta?](https://www.cineby.at/movie/310569?play=true)
