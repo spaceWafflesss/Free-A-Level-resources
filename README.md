@@ -107,6 +107,8 @@ Computer science goes over a lot of things, so there are resources you could use
 
 [AQA A Level Computer Science study book](https://z-lib.gd/book/6Xabo8M2AO/aqa-a-level-computer-science.html), as of June 2026 this is the current official study book for computer science.
 
+[Guide to NEA programming project](https://m.youtube.com/watch?v=JRTZCCGBZ50&ra=m)
+
 [Craig n Dave](https://m.youtube.com/channel/UC0HzEBLlJxlrwBAHJ5S9JQg?ra=m) have a youtube channel and [website](https://craigndave.org) that goes over everything in the AQA spec. You can just search the subject and then add there name and they should have a video. Make sure it's AQA as they also do OCR.
 
 [Wiki books cs](https://en.wikibooks.org/wiki/A-level_Computing/AQA). This is a seperate guide that goes over many things in the A Level exams. Notably it explains how to do the programing project and gives examples questions with the current and all previous skeleton programs. 
