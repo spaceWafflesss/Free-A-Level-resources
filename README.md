@@ -2,7 +2,7 @@
 
 This is a public repository I made after passing my A Levels, it contains free information and resources to help you study. I studied French, Portugeuse and computor science, so resources will be related to these. 
 
-## Edexcel A Level French 9FR0 Resources
+## Edexcel A Level French (9FR0)
 To view all past papers and mark schemes you can download them from the official website here: [past papers](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.coursematerials.html#%2FfilterQuery=category:Pearson-UK:Category%2FExam-materials)
 **IMPORTANT**: unlike GCSE, A level languages use a scaling system, which can be viewed for all languages here: [scaling](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/forms-and-administration/a-level-languages-scaling-guidance.pdf).
 
