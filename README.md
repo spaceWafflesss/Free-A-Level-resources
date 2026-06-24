@@ -24,6 +24,8 @@ Books
 1. [No et moi](https://z-lib.gd/book/orQoKBNyAG/no-et-moi-roman.html)
 2. [L'étranger](https://z-lib.gd/book/Vrwpo4mkX1/létranger.html)
 3. [Un sac de billes](https://z-library.sk/book/Zjd7pLoBRW/un-sac-de-billes.html)
+4. [La Place](https://z-library.sk/book/8jm6e5xNvZ/la-place.html)
+5. [Le blé en herbe](https://z-library.sk/book/8vla2xkVOe/le-blé-en-herbe.html)
 
 Movies
 1. [La Haine](https://www.cineby.at/movie/406?play=true)
