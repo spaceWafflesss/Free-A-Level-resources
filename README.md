@@ -26,6 +26,10 @@ Books
 3. [Un sac de billes](https://z-library.sk/book/Zjd7pLoBRW/un-sac-de-billes.html)
 4. [La Place](https://z-library.sk/book/8jm6e5xNvZ/la-place.html)
 5. [Le blé en herbe](https://z-library.sk/book/8vla2xkVOe/le-blé-en-herbe.html)
+6. [Le Château de ma Mère](https://z-library.sk/book/QOPEa1AqRX/souvenirs-denfance-ii-le-chÂteau-de-ma-mÈre.html)
+7. [Le Gone du Chaâba](https://z-library.sk/book/QRMb7BkAjV/le-gone-du-chaaba.html)
+8. [Les Mains Sales](https://z-library.sk/book/yRaqee1yRQ/les-mains-sales.html)
+9. [Les Petits Enfants du siècle](https://z-library.sk/book/8vla22n8Oe/les-petits-enfants-du-siècle.html)
 
 Movies
 1. [La Haine](https://www.cineby.at/movie/406?play=true)
