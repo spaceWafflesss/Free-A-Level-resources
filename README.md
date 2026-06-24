@@ -35,10 +35,11 @@ Books
 12. [Une si longue lettre](https://z-library.sk/book/yRaMqwzgRQ/une-si-longue-lettre.html)
 
 Movies
-1.[Les Intouchables](https://www.tokyvideo.com/fr/video/film-complet-gratuit-intouchables)
-2.[La Haine](https://www.cineby.at/movie/406?play=true)
-3. Second
-4. Third
+1. Intouchables](https://www.tokyvideo.com/fr/video/film-complet-gratuit-intouchables)
+2. [La Haine](https://www.cineby.at/movie/406?play=true)
+3. [La Vie en Rose](https://flickystream.su/player/movie/1407)
+4. [Au Revoir les Enfants](https://flickystream.su/player/movie/1786)
+5. [Chocolat](https://www.cineby.at/movie/41951?play=true)
 
 ### Exam explanation
 The oral exam lasts max 23 minutes in total. Task (part) one lasts 7 minutes max. You are given a choice between two themes, once you choose one you are giving two questions to chose from that you respond to. You get 5 minutes to prepare your answer before your examiner will ask you questions about the theme, and you need to give arguements for/against it.
