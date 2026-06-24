@@ -30,6 +30,9 @@ Books
 7. [Le Gone du Chaâba](https://z-library.sk/book/QRMb7BkAjV/le-gone-du-chaaba.html)
 8. [Les Mains Sales](https://z-library.sk/book/yRaqee1yRQ/les-mains-sales.html)
 9. [Les Petits Enfants du siècle](https://z-library.sk/book/8vla22n8Oe/les-petits-enfants-du-siècle.html)
+10. [Le Tartuffe](https://z-library.sk/book/QO5WWqa1jr/le-tartuffe.html)
+11. [Thérèse Desqueyroux](https://z-library.sk/book/JR65G9pnON/thérèse-desqueyroux.html)
+12. [Une si longue lettre](https://z-library.sk/book/yRaMqwzgRQ/une-si-longue-lettre.html)
 
 Movies
 1. [La Haine](https://www.cineby.at/movie/406?play=true)
