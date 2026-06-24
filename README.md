@@ -8,7 +8,7 @@ To view all past papers and mark schemes you can download them from the official
 
 [Edexcel A Level French study book](https://z-lib.gd/book/9rExRVavPl/edexcel-a-level-french-includes-as.html), as of June 2026 this is the current official study book for French.
 
-[Official Getting Started Guide, all themes for Oral exam](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Teaching%20and%20learning%20materials/Getting_Started_Guide_Tand_L_activities_French.pdf)
+[Edexcel Getting Started Guide](https://qualifications.pearson.com/content/dam/pdf/A%20Level/French/2016/Teaching%20and%20learning%20materials/Getting_Started_Guide_Tand_L_activities_French.pdf) this is an official document listing all the themes and subthemes for part 1 of the oral exam. Contains various links to websites to study and learn.
 
 [Frenchtop10](https://www.frenchtop10.com) is a great websites for finding information for the french oral themes as each is listed with links, as well as having a good analise of each theme in the book No et moi.
 
