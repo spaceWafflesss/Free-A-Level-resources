@@ -1,6 +1,8 @@
 # Free-A-Level-resources
 
-This is a public repository I made after passing my A Levels, it contains free information and resources to help you study. I studied French, Portugeuse and computor science, so resources will be related to these. 
+This is a public repository I made after passing my A Levels, it contains free information and resources to help you study. I studied French, Portugeuse and computor science, so resources will be related to these.
+
+**WARNNING** the books and movies sections contain links to third party websites, I do not take responsibility for any problems that may accure. It is best to have an adblocker installed and a VPN too if possible. If the links do not work you can try on alternate sources like [Anna's archive](https://annas-archive.gl) and [this list of free streaming sources](https://fmhy.net/video)
 
 ## Edexcel A Level French (9FR0)
 To view all past papers and mark schemes you can download them from the official website here: [past papers](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.coursematerials.html#%2FfilterQuery=category:Pearson-UK:Category%2FExam-materials)
@@ -33,6 +35,7 @@ Books
 10. [Le Tartuffe](https://z-library.sk/book/QO5WWqa1jr/le-tartuffe.html)
 11. [Thérèse Desqueyroux](https://z-library.sk/book/JR65G9pnON/thérèse-desqueyroux.html)
 12. [Une si longue lettre](https://z-library.sk/book/yRaMqwzgRQ/une-si-longue-lettre.html)
+13. [Boule de Suif et autres contes de guerre](https://z-library.sk/book/0v1A1LNWvp/boule-de-suif-et-autres-histoires-de-guerre.html)
 
 Movies
 1. [Intouchables](https://www.tokyvideo.com/fr/video/film-complet-gratuit-intouchables)
