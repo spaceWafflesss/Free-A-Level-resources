@@ -142,6 +142,8 @@ Computer science goes over a lot of things, so there are resources you could use
 
 [Electronics tutorials](https://www.electronics-tutorials.ws/boolean/bool_6.html) has boolean and gate information.
 
+[Online python](https://www.online-python.com) lets you practice python online.
+
 ### Exam explanation
 There are three different parts of the exam.
 
